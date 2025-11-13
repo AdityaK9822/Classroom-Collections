@@ -1,0 +1,17 @@
+x=int(input("Enter the one number : "))
+y=int(input("Enter the second number : "))
+print("intial value of X =",x)
+x+=y
+print("After x+=5 ->",x)
+x-=3
+print("After x-=5 ->",x)
+x*=2
+print("After x*=5 ->",x)
+x/=4
+print("After x/=5->",x)
+x%=3
+print("After x%=5 ->",x)
+x**=2
+print("After x**=5 ->",x)
+x//=2
+print("After x//=5 ->",x)
